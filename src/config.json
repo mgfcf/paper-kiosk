@@ -1,0 +1,12 @@
+{
+  "url": "https://wetter.com",
+  "update_delay": 5,
+  "run_on_hour": true,
+  "file_render": true,
+  "file_path": "render.png",
+  "display_render": false,
+  "display_colors": "bwr",
+  "display_height": 640,
+  "display_width": 384,
+  "page_load_delay": 1
+}
